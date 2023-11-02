@@ -1,11 +1,11 @@
-{
- "name": "Knowledge Graph Coin",
- "website": "http://www.gzaiengine.com",
- "description": "World culture and multi universe knowledge base, KGC is used for knowledge payment and cultural reward.",
- "explorer": "https://bscscan.com/token/0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de",
- "type": "BEP20",
- "symbol": "kgc",
- "decimals": 8,
- "status": "active",
- "id": "0x4f58674f9eA4541A55fa96DFD3FFbF1e9e77c4de"
+{ 
+"name": "Dragon",
+"website": "https://pancakeswap.finance/",
+"description": "The strongest IP "🐉" in the Year of the Dragon has landed on BSC to book a bull market detonator. You don't have to wait for the Spring Festival Gala to be a mixed bag of idiots, lock in the only real thing in advance🐉:. ",
+"explorer": "https://bscscan.com/token/0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123",
+"type": "BEP20",
+"symbol": "🐉",
+"decimals": 18,
+"status": "active",
+"id": "0x9d3245a6b7fd03e98a02f9a126d37a9d4c9f4123"
 }
